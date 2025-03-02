@@ -1,0 +1,24 @@
+
+*.exe
+*.dll
+*.pdb
+*.user
+*.cph
+*.suo
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.pidb
+*.resharper
+
+# Visual Studio 2010 auto generated files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.sdf
+*.suo
+*.suo
