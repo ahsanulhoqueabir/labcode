@@ -11,6 +11,8 @@
 *.vssscc
 *.pidb
 *.resharper
+dbms/railbd
+dbms/jnubank
 
 # Visual Studio 2010 auto generated files
 ipch/
